@@ -1,15 +1,13 @@
 ---
-title: "Exploring data"
-teaching: 240
+title: "Exploring and analyzing an example dataset"
+teaching: 180
 exercises: 0
 questions:
-- "What are multidimensional biodiversity data?"
 - "How to explore multidimensional biodiversity data?"
 - "What kinds of analyses can we do with MBD?"
 objectives:
-- "Explore data types and analyses common with MBD"
-- "Explore and perform summary analyses on an example dataset"
-- "Work through example analyses on a cleaned dataset"
+- "Explore and perform summary analyses on an example dataset" (Jacob, Isaac)
+- "Work through example analyses on a cleaned dataset" (Renata, Isaac)
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
@@ -17,10 +15,10 @@ keypoints:
 
 
 ## Content
-- Data types and types of analyses: case studies [Rob, Isaac]
-- Load and explore (summary stats) a cleaned dataset [Isaac,  Jacob]
+
+- Load and explore (summary stats) a cleaned dataset 
     - diversity indices...
-- Worked analysis with cleaned data [Renata, Isaac]
+- Worked analysis with cleaned data 
     - Analyses could include a RoLE simulation among examples - avoiding too much technical detail
     - Could include multiple analyses to build in complexity
     

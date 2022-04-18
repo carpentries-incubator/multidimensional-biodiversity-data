@@ -1,9 +1,9 @@
 ---
-title: "Using process models for inference"
+title: "Using process models for inference on simulated data"
 teaching: 180
 exercises: 0
 questions:
-- "How do we interpret model outcomes in terms of generate process?"
+- "How do we interpret model outcomes in terms of generative process?"
 objectives:
 - "Compare (simulated/engineered) data to model outcomes (Isaac)"
 keypoints:

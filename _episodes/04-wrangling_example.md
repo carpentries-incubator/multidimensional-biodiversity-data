@@ -5,8 +5,8 @@ exercises: 0
 questions:
 - "How to address common challenges in cleaning and synthesizing diverse data streams?"
 objectives:
-- "Work through data wrangling for a new dataset" (Renata, Isaac)
-- "Work through example analyses on a  dataset you cleaned yourself" (Renata, Isaac)
+- "Work through data wrangling for a new dataset (Renata, Isaac)" 
+- "Work through example analyses on a  dataset you cleaned yourself (Renata, Isaac)" 
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---

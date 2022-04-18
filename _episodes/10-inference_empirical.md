@@ -1,5 +1,5 @@
 ---
-title: "Using process models for inference"
+title: "Using process models for inference on empirical data"
 teaching: 120
 exercises: 0
 questions:

@@ -6,8 +6,8 @@ questions:
 - "How to explore multidimensional biodiversity data?"
 - "What kinds of analyses can we do with MBD?"
 objectives:
-- "Explore and perform summary analyses on an example dataset" (Jacob, Isaac)
-- "Work through example analyses on a cleaned dataset" (Renata, Isaac)
+- "Explore and perform summary analyses on an example dataset (Jacob, Isaac)" 
+- "Work through example analyses on a cleaned dataset (Renata, Isaac)" 
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
